@@ -1,0 +1,15 @@
+AloriumTechnology	Ignored my PR for 6 months, then duplicated it (in a half-assed way) the day after I made a bump comment. When I discovered this and complained they responded claiming they didn't know about my PR (hard to believe due to the timing of their commits) and called me "pouty". That comment was later deleted and replaced with one that didn't contain the lie and insults. https://github.com/AloriumTechnology/XLR8LFSR#1
+arduino-org	Seems to be unmaintained.
+BackupGGCode	Seems like it's just a bunch of repository copies.
+bhagman	Not receptive to PRs fixing legitimate bugs: https://github.com/bhagman/SoftPWM/pull/3#issuecomment-395299903 https://github.com/bhagman/Tone/pull/6
+crakerbr-superiontech	See AloriumTechnology
+eaconner	See EricConnerApps
+enjoyneering	Wasted a bunch of my time, then claimed they were trolling me. https://github.com/enjoyneering/RotaryEncoder/pull/1
+EricConnerApps	Closed my PR w/o comment, then duplicated my work, then deleted my comments asking why it had been closed (I hadn't noticed they had duplicated my work), then blocked me. https://github.com/EricConnerApps/Retro-Pin/pull/1 https://github.com/EricConnerApps/Retro-Pin/commit/016ee2e6d0d5a61df03e30b62178109a8e262657
+julyjim	AKA Vaclav. Super rude on the arduino/Arduino issue tracker and forum. https://github.com/arduino/Arduino/issues?q=is%3Aissue+author%3Ajulyjim https://github.com/arduino/Arduino/issues?q=is%3Aissue+vaclav https://www.google.com/search?q=vaclav&sitesearch=http%3A%2F%2Fforum.arduino.cc
+RogueRobotics	Not receptive to PRs fixing legitimate bugs: https://github.com/bhagman/SoftPWM/pull/3#issuecomment-395299903 https://github.com/bhagman/Tone/pull/6
+shield-9	Closed two valid pull requests without any explanation and locked the conversation, even though there had been no comments in it. https://github.com/shield-9/Arduino-LIGHTSTACK/pull/1 https://github.com/shield-9/Arduino-BME280/pull/1
+shiftleftplusone	AKA VogonJeltz. Super rude on the arduino/Arduino issue tracker. https://github.com/arduino/Arduino/issues?q=is%3Aissue+author%3Ashiftleftplusone https://github.com/arduino/Arduino/issues?q=is%3Aissue+vogonjeltz
+tofrnr	Super rude on the arduino/Arduino Issue tracker. https://github.com/arduino/Arduino/issues?utf8=%E2%9C%93&q=%20author%3Atofrnr%20
+uzplaza	Seems to just be all copies (not forks) of other people's repos.
+windykeyboards	They're doing some non-standard thing not using the Arduino IDE and don't welcome anything to improve Arduino IDE compatibility. https://github.com/windykeyboards/butt-in/pull/1

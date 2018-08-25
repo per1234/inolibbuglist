@@ -1,0 +1,176 @@
+2splat/arduino-TLC59116	Has some makefile system for generating the library that causes the script to detect spurious bugs
+acamilo/good-display-eink-library	Low quality
+achase90/thesisArduinoLibs	Collection of library copies
+alessandro1105/MRF24WB0MA_WiFiShield_Arduino_Library	Not a library
+alotaiba/AccelStepperSpark	Particle library spamming the arduino GitHub topic
+alotaiba/HT1635B	Particle library
+alotaiba/LED_GFX	Particle library
+alotaiba/PCA9534	Particle library
+andrebahiense/PolyphonicPiano	Not a library
+AndruePeters/etally-counter	Sketch
+anisimovsergey/gluino	Uses a makefile system that causes the script to detect spurious bugs
+anjgola/aws-iot-device-sdk-cpp-arduino-create	Duplicate: https://github.com/anjgola/aws-iot-device-sdk-cpp-arduino-create/pull/1#issuecomment-405134698
+ashandinusha/rfid_checking	Sketch
+automaticdai/gd2-lib	Has some release script that causes the script to detect spurious bugs
+babychick/Arduino-library	Collection of library copies
+BackupGGCode/arms22	Sketchbook
+basarane/kemper-arduino-library	Collection of library copies
+benjaminmakowsky/S.P.A.R.K.I	Sketch
+bertmelis/Ticker-esp32	Deprecated library: https://github.com/bertmelis/Ticker-esp32/commit/e52b748fea0ac24f8551eccd31b5c5ac57ba6b28
+bigjosh/Move32-blinks-lib	Obsolete
+bigmacd/spark-plotly	Particle library
+blackhack/ArduLibraries	Collection of library copies
+BlazigatorBros/OpBox	Low quality
+botofancalin/M5Stack-MultiApp-Advanced	Not a library
+brianc118/Team-PI-Lib	Collection of library copies
+chanakaFitUom/LattePanda-Firmata-library	Not a library
+choncba/arduinolib	Collection of library copies
+chris03/rfm69-to-wifi	Not a library
+ChrisIossa/Embedded-Systems-Arduino-Libraries	Collection of library copies
+chrisivens/BiColorLED	Unfinished: https://github.com/chrisivens/BiColorLED/pull/1#issuecomment-410621101
+crushedice2000/2080-controller	Not a library
+cyberponk/Arduino-Library-for-Proteus	Not a library
+derfloDev/mysensors	Sketchbook
+DgFutureLab/satoyama-libs	Collection of library copies
+DuncanCragg/Onix	Not a library
+edaptible/ArduinoLibrary	Collection of library copies
+edlau/ArduinoSnippets	Low quality
+ehalferty/arduino-timerone	Copy of a library
+EleksMaker/EleksGame	Collection of library copies
+ElusiveTau/Library-Arduino	Collection of library copies
+EnviroDIY/Libraries	Collection of library copies
+eyal-lezmy/peak-detector	Uses a makefile system that causes the script to detect spurious bugs
+f-masche/nano-control	Sketch
+FabioBatSilva/ArduinoFake	Not a library
+flyrainning/FlyBoard_Arduino	Not a library?
+Fractal40/Libraries	Collection of library copies
+ganymean/Dragino-LoraMiniDev-MPU6050-DMP-Arduino-Library	Unfinished and inactive
+gcweeks/Arduino-Time	Collection of library copies
+granadaxronos/Arduino_Libraries_1.0.1	Collection of library copies
+grappendorf/arduino-framework	Not a library
+GregoryNikolaishvili/libraries	Collection of library copies
+GSimas/InoThings	Sketchbook
+HaiqiangXu/Arduino-all-projects	Collection of library copies
+hexmaster111/ArduinoLibsBackup	Collection of library copies
+hideakitai/MsgPacketizer	Only compatible with PlatformIO and no indication of a desire to add Arduino IDE support
+https://github.com/iarks/KnockBlock	Sketch
+hutorny/download	Low quality
+IamfromSpace/arrd	Uses a makefile system that causes the script to detect spurious bugs
+ImagineXYZ/libraries	Collection of library copies
+IndustrialShields/arduino-IndustrialShields	Deprecated: https://github.com/IndustrialShields/arduino-IndustrialShields/pull/1#issuecomment-417215687
+iotool/Arduino-IDE-Object-Library	Not a library
+itead/ITEADLIB_Arduino_ESP8266	Discarded
+jasonmasters3000/arduino_core-	Not a library
+jbinkleyj/Arduino_101	Collection of library copies
+JChristensen/Timer	No longer maintained
+jefflieu/recon	Not a library
+jeroendoggen/Arduino-ms1-barcode-scanner-library	Low quality
+jideshv/LoopWaiter	Particle library
+jindrabasek/ArduinoCoreLibMods	Low quality
+jnsat/lock	Not a library
+johngraham1979/Arduino-NTP	Sketch
+JohnMatthrew/Arduino-Library	Not a library
+jonathanrjpereira/TWIST	Not accepting contributions: https://github.com/jonathanrjpereira/TWIST/blob/master/README.md
+jonnieZG/SDCardRecorder	Not a library
+jordibinefa/arduino-IDE-libraries	Collection of library copies
+jschelke/ArduinoLibrarySync	Collection of library copies
+jscrane/Interrupted	Uses a makefile system that causes the script to detect spurious bugs
+kdima001/arduino-library	Collection of library copies
+kj415j45/kjArduino	Abandoned: https://github.com/kj415j45/kjArduino/pull/11
+kunal15595/quadlib	Collection of library copies
+lebomb44/ardulibs	Collection of library copies
+Lembed/Awesome-arduino	Not a library
+LeoDJ/M590	Development paused: https://github.com/LeoDJ/M590/blob/master/README.md
+ligaderoboticaieeeufba/PolyphonicPiano	Not a library
+ligaderoboticaieeeufba/SegueTrilha	Collection of library copies
+Lorganisation/ovsr-arduino	Low quality and abandoned: https://github.com/Lorganisation/ovsr-arduino/pull/1#issuecomment-416535058
+lpasqualis/ArduLibraries	Collection of library copies
+mahula11/SmartHouse_libs	Collection of library copies
+malhaide/Arduino-CPB	Collection of library copies
+manGoweb/BLEDataTransfer	Not a library
+MarcellMo/SimFly	Not a library
+MarcFinns/AtmoScan	Sketch
+marcteys/Uduino	Not a library
+MathieuAuclair/ArduinoTest	Sketchbook
+mcauser/VirtualWire	Copy
+mdvorak/TFT_HX8357	Unmaintained fork: https://github.com/mdvorak/TFT_HX8357/pull/1#issuecomment-405282244
+mechatrocity/greenOmatic	Not a library
+MeteoStation/ModuleSamples	Collection of sketches
+MichaelGrupp/RoverProject	Sketchbook
+mikeburg/FastLEDLinux	Temporary repository
+mikeipin/WeMos-D1-R2_Arduino-Library	Low quality
+mlabviet/smoothServo	Unfinished
+n0st1l/Arduino-Library	Collection of library copies
+NCTUDesignInformatics/IoT_Sigfox	Not a library
+NemoReally/LCDemoCascadedDevices	Not a library
+nidegen/Sprinkler	Nothing
+olehs/MegaLight2	Not a library
+Openhab-Nodes/wakaamaNode	Only compatible with PlatformIO and no indication of a desire to add Arduino IDE support
+otelconsulting/spark-usb-host	Particle library
+parloma/robotcontrol	Not a library
+per1234/inoliblist	Not a library
+phsheth/RotEncoder	Low quality
+PierreBresson/Arduino-I2C	Not a library
+pininho/Arduino_DHT_Library	Looks like just a copy of the Adafruit library
+pininho/Arduino_HC-SR04_Library	Looks like just a copy
+pkarsy/rfboot	Not a library
+pkourany/ArduinoJson	Particle library
+pkourany/DMD_Library	Particle library
+pkourany/I2CDEV_MPU6050	Particle library
+pkourany/SeeedRFID_IDE	Particle library
+pkourany/SoftPWM	Particle library
+qollin/EEPROM	Library copy
+rdpanek/arduinoLibrary	Collection of library copies
+reeedstudio/Atom_Node_Libraries	Collection of library copies
+reeedstudio/libraries	Sketchbook
+reefangel/SparkCoreLibraries	Particle library
+ribasco/new-liquidcrystal	Copy of a library
+ricklon/HelloLibrary	Low quality
+ROBOTIS-GIT/DynamixelSDK	Not a library
+rookie/FrequencyTimer2	Abandoned: https://github.com/rookie/FrequencyTimer2/pull/3#issuecomment-410058162
+ropg/M5ez	Example sketch system causes spurious multiple sketch error and I don't feel like trying to remember that on every run
+sanfx/Installed-arduino-libraries	Collection of library copies
+Schweigert/UDESC	I don't know what it is
+scjurgen/jayduino	Collection of library copies?
+scls19fr/arduino_libraries_search	Not a library
+Serge78rus/libarduino	Not a library
+SFEelectronics/Arduino_Library	Collection of library copies
+shwongsoohar/Adafruit_DHT_Library	Particle library
+solaremperor/PeerSecure	Low quality
+sparkfun/SparkFun_WiFly_Shield_Arduino_Library	Product retired years ago so probably not worth working on the library
+sports31415/rf24-hive	Not a library
+SterlingPeet/OpenServo	Inactive: https://github.com/SterlingPeet/OpenServo/pull/1#issuecomment-405372648
+StevensLabs/arduino-library-master	Collection of library copies
+Subh1m/Arduino-Library-Files	Collection of library copies
+suculent/thinx-firmware-esp32-ino	Not a library
+swapii/ArduinoLib_NewLiquidCrystal	Mirror
+SwarmDrones/SwarmArduinoDependecies	Collection of library copies
+teamiotahu/library_arduino	Collection of library copies
+theiothing/ITEADLIB_Arduino_Nextion	Low quality
+thewenneur/esp32-1	Low quality
+thijse/Arduino-Code-and-Libraries	Collection of sketches?
+thijse/Lightuino-Code-and-Libraries	Collection of library copies?
+tobozo/M5Stack-ESP12-Shield	Not a library?
+triatebr/aprenda-arduino	Not a library
+Unchapped/TinyPubSub	Low quality
+unforgiven512/IRRemote	Particle library
+unixunion/arduino-tvout	Collection of library copies
+usemodj/KMAWeatherJSON	Not a library
+usupsuparma/libraries-arduino	Collection of library copies
+uzplaza/https-github.com-monkeyboard-Wiegand-Protocol-Library-for-Arduino	Outdated copy of https://github.com/monkeyboard/Wiegand-Protocol-Library-for-Arduino
+VarshaRagavendran/Home_Thermal_Management	not a library
+vegos/arduino-revisitato	Collection of library copies
+W84TheSun/leap_arduino_libs	Collection of library copies
+WalderlanSena/arduinolibraries	Collection of library copies
+WalderlanSena/LcdKeypad	Low quality
+watterott/MI0283QT-Adapter	Not a library
+webworxshop/arduino_time_libraries	Collection of library copies
+WilkoV/Arduino_AtmelPackLibrary	Not a library
+Wiznet/Arduino_WizFi250	Obsolete: https://github.com/Wiznet/Arduino_WizFi250/pull/1#issuecomment-403998804
+wlanowski/wetterstation	Not a library
+xn4p4lm/EthernetControlledNeopixels	Not a library
+xxzl0130/Some-Useful-Library-For-Arduion-Car	Low quality
+yoshidaken1/Libraries0023Android	Low quality
+zbx-sadman/zabbuino	Not a library
+zerc/arduino	Not a library
+zxpower/ESP8266EEPROMDump	Not a library
