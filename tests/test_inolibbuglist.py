@@ -8,6 +8,7 @@ import unittest
 # add the parent folder to the module search path
 # https://stackoverflow.com/a/20371877
 import os
+
 testdir = os.path.dirname(__file__)
 srcdir = '../'
 sys.path.insert(0, os.path.abspath(os.path.join(testdir, srcdir)))
@@ -400,7 +401,7 @@ class TestInolibbuglist(unittest.TestCase):
             for arduino_library_topic_abuse_browser_script_line in arduino_library_topic_abuse_browser_script:
                 self.assertEqual(arduino_library_topic_abuse_browser_script_line,
                                  "\"/c/Program Files/Mozilla Firefox/firefox.exe\""
-                                 " -new-tab https://github.com/eaconner/foobar\n")
+                                 " -new-tab https://github.com/spapadim/XPT2046\n")
 
     # @unittest.skip("")
     def test_create_open_in_tabs_script(self):
@@ -419,7 +420,7 @@ class TestInolibbuglist(unittest.TestCase):
             for arduino_library_topic_abuse_browser_script_line in arduino_library_topic_abuse_browser_script:
                 self.assertEqual(arduino_library_topic_abuse_browser_script_line,
                                  "\"/c/Program Files/Mozilla Firefox/firefox.exe\" "
-                                 "-new-tab https://github.com/eaconner/foobar\n"
+                                 "-new-tab https://github.com/spapadim/XPT2046\n"
                                  )
 
     # @unittest.skip("")

@@ -681,8 +681,17 @@ def process_inoliblist(inoliblist_path):
                 table.append(inolibbuglist_row_list)
                 continue
 
+            # is the repo blacklisted?
+            inolibbuglist_row_list[Column.blacklist] = str(
+                check_blacklist(repository_url=inolibbuglist_row_list[inoliblist.Column.repository_url]))
+            if inolibbuglist_row_list[Column.blacklist] == "True":
+                inoliblist.logger.info("Skipping: blacklisted")
+                # no point in doing anything further for this row, save the row and go on to the next one
+                # append this row to the table
+                table.append(inolibbuglist_row_list)
+                continue
+
             # detect inappropriate use of the "arduino-library" topic
-            # I'll do this even if the repo is blacklisted
             if (
                     inolibbuglist_row_list[inoliblist.Column.library_path] == '' and
                     inolibbuglist_row_list[inoliblist.Column.github_topics].find("arduino-library") != -1
@@ -726,16 +735,6 @@ def process_inoliblist(inoliblist_path):
                 inolibbuglist_row_list[Column.i_have_open_issue] = str(i_have_open_issue)
             else:
                 inolibbuglist_row_list[Column.arduino_library_topic_abuse] = "False"
-
-            # is the repo blacklisted?
-            inolibbuglist_row_list[Column.blacklist] = str(
-                check_blacklist(repository_url=inolibbuglist_row_list[inoliblist.Column.repository_url]))
-            if inolibbuglist_row_list[Column.blacklist] == "True":
-                inoliblist.logger.info("Skipping: blacklisted")
-                # no point in doing anything further for this row, save the row and go on to the next one
-                # append this row to the table
-                table.append(inolibbuglist_row_list)
-                continue
 
             # do I have an open PR?
             i_have_open_pull_request = check_for_open_pr(
