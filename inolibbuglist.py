@@ -718,9 +718,12 @@ def process_inoliblist(inoliblist_path):
 
                         for issue in json_data:
                             if issue["user"]["login"] == github_login:
-                                inoliblist.logger.info("I have an open issue")
-                                i_have_open_issue = True
-                                break
+                                # GitHub considers pull requests to be issues (though issues are not pull requests)
+                                # so any item with a "pull_request" key must be excluded from the check
+                                if "pull_request" not in issue:
+                                    inoliblist.logger.info("I have an open issue")
+                                    i_have_open_issue = True
+                                    break
                         if i_have_open_issue:
                             break
 
