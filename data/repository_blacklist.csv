@@ -1,4 +1,3 @@
-1n5aN1aC/HouseESP	Sketch
 1n5aN1aC/HouseESP	Not a library
 246overclocked/RoverArduino	Collection of library copies
 2fatdotco/sxsw2016-arduinoLampLibraries	Collection of library copies
@@ -442,6 +441,7 @@ truffio/RotationResistPID	Sketch
 tsnowak/9DOF_IMU_Adafruit_L3GD20-LSM303D	Sketch
 tuupola/triple-a	Not an Arduino library
 tzapu/WiFiManager	Won't merge a legitimate, obvious, non-controversial PR: https://github.com/tzapu/WiFiManager/pull/413
+UMDBPP/Balloonduino	Development on hold: https://github.com/UMDBPP/Balloonduino/pull/29#issuecomment-421034279
 Unchapped/TinyPubSub	Low quality
 unforgiven512/IRRemote	Particle library
 unixunion/arduino-tvout	Collection of library copies

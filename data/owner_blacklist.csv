@@ -10,6 +10,7 @@ julyjim	AKA Vaclav. Super rude on the arduino/Arduino issue tracker and forum. h
 RogueRobotics	Not receptive to PRs fixing legitimate bugs: https://github.com/bhagman/SoftPWM/pull/3#issuecomment-395299903 https://github.com/bhagman/Tone/pull/6
 shield-9	Closed two valid pull requests without any explanation and locked the conversation, even though there had been no comments in it. https://github.com/shield-9/Arduino-LIGHTSTACK/pull/1 https://github.com/shield-9/Arduino-BME280/pull/1
 shiftleftplusone	AKA VogonJeltz. Super rude on the arduino/Arduino issue tracker. https://github.com/arduino/Arduino/issues?q=is%3Aissue+author%3Ashiftleftplusone https://github.com/arduino/Arduino/issues?q=is%3Aissue+vogonjeltz
+szeder	Doesn't welcome contributions. https://github.com/szeder/Timer/pull/1
 tofrnr	Super rude on the arduino/Arduino Issue tracker. https://github.com/arduino/Arduino/issues?utf8=%E2%9C%93&q=%20author%3Atofrnr%20
 uzplaza	Seems to just be all copies (not forks) of other people's repos.
 windykeyboards	They're doing some non-standard thing not using the Arduino IDE and don't welcome anything to improve Arduino IDE compatibility. https://github.com/windykeyboards/butt-in/pull/1
