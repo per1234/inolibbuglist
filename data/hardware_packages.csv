@@ -1,5 +1,4 @@
 Repository URL	branch	libraries folder	Notes	source
-https://github.com//carlosefr/atmega	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/01org/corelibs-edison	master	libraries	Possibly abandoned, but maybe worth a feeler PR	
 https://github.com/01org/corelibs-galileo	master	libraries	Possibly abandoned, but maybe worth a feeler PR	
 https://github.com/adafruit/Adafruit_Arduino_Boards	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
@@ -23,6 +22,7 @@ https://github.com/avandalen/SAM15x15	master		The package is only available in c
 https://github.com/BayCEER/BayEOS-Arduino	master	libraries		
 https://github.com/BirdBrainTechnologies/BirdBrain-Arduino-Libraries	master	bbtech-avr-1.1.0/libraries	The use of a version number in the folder name is likely to break this on every release	
 https://github.com/Bisotronic/archiduino_1.8.5	master	avr/libraries		https://github.com/topics/arduino-platform
+https://github.com/carlosefr/atmega	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/chipKIT32/chipKIT-core	master	pic32/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/ChrisMicro/STM32GENERIC	master	STM32/libraries		https://github.com/topics/arduino-platform
 https://github.com/CytronTechnologies/Cytron-Arduino-URL	master		The package is only available in compressed files so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
@@ -86,6 +86,7 @@ https://github.com/rogerclarkmelbourne/Arduino_STM32	master	STM32F4/libraries
 https://github.com/sandeepmistry/arduino-nRF5	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/sblyolcubal/arduino-iot2000	master		The package is only available in compressed files so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/Seeed-Studio/stm32f4ArduinoCore	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/soburi/JN516x-arduino-package	master	libraries		
 https://github.com/SodaqMoja/SodaqCore-avr	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/SodaqMoja/SodaqCore-samd	v1.6.15-sodaq	libraries	The use of a separate branch for each release is likely to break this on every release	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/sparkfun/Arduino_Boards	master	sparkfun/avr/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
