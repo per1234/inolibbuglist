@@ -36,7 +36,7 @@ script:
   # Run unit tests
   - git clone --depth 1 https://github.com/per1234/inoliblist.git ../inoliblist
 
-  - python tests/test_inolibbuglist.py --ghtoken $GITHUB_TOKEN --github_login per1234 --browser_command "\"/c/Program Files/Mozilla Firefox/firefox.exe\" -new-tab" --arduino_ci_script_branch development --arduino_ci_script_application_folder "${HOME}" --arduino_ci_script_arduino_ide_version "1.8.6"
+  - python tests/test_inolibbuglist.py --ghtoken $GITHUB_TOKEN --github_login per1234 --browser_command "\"/c/Program Files/Mozilla Firefox/firefox.exe\" -new-tab" --arduino_ci_script_branch master --arduino_ci_script_application_folder "${HOME}" --arduino_ci_script_arduino_ide_version "1.8.6"
 
 
 notifications:
