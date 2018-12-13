@@ -76,6 +76,7 @@ https://github.com/MCUdude/MightyCore	master	avr/libraries		https://github.com/a
 https://github.com/MCUdude/MiniCore	master	avr/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/me-no-dev/RasPiArduino	master	libraries		
 https://github.com/MediaTek-Labs/Arduino-Add-On-for-LinkIt-SDK	master	middleware/third_party/arduino/hardware/arduino/mt7697/libraries		
+https://github.com/meetjestad/mjs_boards	master		No libraries	
 https://github.com/mikaelpatel/Cosa	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/ms-iot/iot-utilities	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/NicoHood/HoodLoader2	dev206	avr/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
