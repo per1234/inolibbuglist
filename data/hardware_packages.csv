@@ -23,24 +23,30 @@ https://github.com/avandalen/SAM15x15	master		The package is only available in c
 https://github.com/BayCEER/BayEOS-Arduino	master	libraries		
 https://github.com/BirdBrainTechnologies/BirdBrain-Arduino-Libraries	master	bbtech-avr-1.1.0/libraries	The use of a version number in the folder name is likely to break this on every release	
 https://github.com/Bisotronic/archiduino_1.8.5	master	avr/libraries		https://github.com/topics/arduino-platform
+https://github.com/Bisotronic/archiduino1284BT	master	libraries		https://github.com/topics/arduino-boards
 https://github.com/bwshockley/Minifigure-SAMD21E	master	arduino/mini_sam/hardware/samd/2.0.0/libraries 	idiotic repository structure that will probably break the library path on every release	
 https://github.com/carlosefr/atmega	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/chipKIT32/chipKIT-core	master	pic32/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/ChrisMicro/STM32GENERIC	master	STM32/libraries		https://github.com/topics/arduino-platform
+https://github.com/CircuitMonkey/arduino-boards	master		No libraries	https://github.com/topics/arduino-boards
 https://github.com/CytronTechnologies/CT-ARM	master	libraries		
 https://github.com/CytronTechnologies/Cytron-Arduino-URL	master		The package is only available in compressed files so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/CytronTechnologies/Cytron-ARM-Arduino-URL	master		The package is only available in compressed files so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/dadamachines/automat	master	software/arduino/hardware/dadamachines/samd/libraries/ 	The libraries are currently all submodules.	https://github.com/topics/arduino-boards
 https://github.com/damellis/attiny	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/danieleff/STM32GENERIC	master	STM32/libraries		
 https://github.com/DFRobot/DFRobotDuinoBoard	master		The package is only available in compressed files so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/digistump/DigistumpArduino	master	digistump-avr/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/digistump/DigistumpArduino	master	digistump-sam/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/dprinz4/ATmega328PB-Arduino-Nano-Clone-with-Bootloader	master	src/avr/libraries/ 		https://github.com/topics/arduino-boards
 https://github.com/eerimoq/simba-releases	master		The package is only available in compressed files so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/eightdog/laika_arduino	master		The package is only available in compressed files (on the release page) so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/ElectronicCats/Arduino_Boards_Index	gh-pages	electroniccats/samd/libraries/ 		https://github.com/topics/arduino-boards
 https://github.com/ElektorLabs/arduino	master	source/avr/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/ElektorLabs/arduino	master	source/avrpb/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/ElektorLabs/arduino	master	source2/avr/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/Engimusing/engimusing.github.io	master	arduinoIDE/efm48_1/1.0.1/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/EnviroDIY/Arduino_boards	master		No libraries	https://github.com/topics/arduino-boards
 https://github.com/esp8266/Arduino	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/espressif/arduino-esp32	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/feilipu/Arduino_Goldilocks_Variant	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
@@ -64,10 +70,12 @@ https://github.com/kimio-kosaka/bitDuino10-arduinoTPI	master		No libraries
 https://github.com/Lauszus/Sanguino	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/LGTMCU/Larduino_HSP	master	hardware/LGT/avr/libraries	Libraries are currently in the root folder but I submitted a PR to bundle them with the hardware package	
 https://github.com/loathingKernel/ariadne-bootloader	master	libraries		
+https://github.com/loranodes/arduino-core	master	microNode/libraries/ 		https://github.com/topics/arduino-boards
 https://github.com/LowPowerLab/LowPowerLab.github.io	master		The package is only available in compressed files so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/macchina/arduino-boards-sam	master	sam/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/makerlabmx/altair-arduinoide	master	avr/libraries		
 https://github.com/MaximIntegratedMicros/arduino-max326xx	master	arm/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/mcci-catena/Arduino_Core_STM32	master	libraries		https://github.com/topics/arduino-boards
 https://github.com/MCUdude/ButterflyCore	master	avr/libraries		
 https://github.com/MCUdude/MajorCore	master	avr/libraries		
 https://github.com/MCUdude/MegaCore	master	avr/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
@@ -80,6 +88,7 @@ https://github.com/meetjestad/mjs_boards	master		No libraries
 https://github.com/mikaelpatel/Cosa	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/ms-iot/iot-utilities	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/NicoHood/HoodLoader2	dev206	avr/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/NorthernWidget/Arduino_Boards	master	NorthernWidgetAVR/libraries/ 		https://github.com/topics/arduino-boards
 https://github.com/OLIMEX/Arduino_configurations	master			https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/OLIMEX/Arduino_configurations	master		The package is only available in compressed files so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/OpenPanzerProject/OpenPanzerBoards	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
@@ -101,6 +110,7 @@ https://github.com/sandeepmistry/arduino-nRF5	master	libraries		https://github.c
 https://github.com/sblyolcubal/arduino-iot2000	master		The package is only available in compressed files so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/Seeed-Studio/Seeed_SAMD_Boards	master	libraries		
 https://github.com/Seeed-Studio/stm32f4ArduinoCore	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/Seenov/mobillyo	master	mobillyo-board-files/seenov/hardware/avr/1.0.0/libraries/ 	Idiotic repository structure that will probably break the library path on every release. There are currently no libraries anyway.	https://github.com/topics/arduino-boards
 https://github.com/soburi/JN516x-arduino-package	master	libraries		
 https://github.com/SodaqMoja/SodaqCore-avr	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/SodaqMoja/SodaqCore-samd	v1.6.15-sodaq	libraries	The use of a separate branch for each release is likely to break this on every release	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
@@ -109,6 +119,7 @@ https://github.com/sparkfun/Arduino_Boards	master	sparkfun/avr/libraries		https:
 https://github.com/sparkfun/Arduino_Boards	master	sparkfun/esp8266/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/sparkfun/Arduino_Boards	master	sparkfun/samd/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/SpenceKonde/ATTinyCore	master	avr/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/stevemarple/Calunium	master		No libraries	https://github.com/topics/arduino-boards
 https://github.com/stm32duino/Arduino_Core_STM32	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/stm32duino/Arduino_Core_STM8	master	libraries		
 https://github.com/synman/CANBus-Triple_Genesis-Connect	master	avr/libraries		
