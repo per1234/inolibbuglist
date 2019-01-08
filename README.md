@@ -4,7 +4,7 @@ This script is used to find bugs in an [automatically generated list of thousand
 
 One of the best things about Arduino is the huge number of libraries available for practically anything you could want to do. Unfortunately, most of these libraries were written either by novices or experienced programmers who don't use the Arduino IDE and so many of them have bugs. Often these are minor bugs that don't bother the experienced user but can cause a beginner to have a bad time. This script is part of a project intended to improve the overall quality of Arduino libraries by fixing some easily detectable bugs.
 
-This code was written for my own use for a very specific purpose and so not much effort was put toward making it generally useful to others. Other components of the project more likely to be generally useful were separated into [inoliblist](https://github.com/per1234/inoliblist) and [arduino-ci-script](https://github.com/per1234/arduino-ci-script. I'm publishing this in the spirit of open source but without much expectation it will be useful to anyone else.
+This code was written for my own use for a very specific purpose and so not much effort was put toward making it generally useful to others. Other components of the project more likely to be generally useful were separated into [inoliblist](https://github.com/per1234/inoliblist) and [arduino-ci-script](https://github.com/per1234/arduino-ci-script). I'm publishing this in the spirit of open source but without much expectation it will be useful to anyone else.
 
 
 ### Bug detection
