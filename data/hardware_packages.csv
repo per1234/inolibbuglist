@@ -12,6 +12,7 @@ https://github.com/Ameba8195/Arduino	master	hardware_v2/libraries		https://githu
 https://github.com/arachnidlabs/arachnidlabs-boards	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/Ardhat/ardhat.github.io	master	ardhat-board-support/arduino/ardhat-1.0.0/libraries	Version number in path will probably break the library path on every release	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/Arduboy/arduboy.github.io	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/ArduCAM/ArduCAM_ESP8266_UNO	master	libraries		
 https://github.com/arduino-org/arduino-core-nrf52	master	libraries		
 https://github.com/arduino-org/arduino-core-stm32f4	master	libraries		
 https://github.com/arduino/ArduinoCore-arc32	master	libraries		
