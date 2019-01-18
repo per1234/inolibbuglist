@@ -76,6 +76,7 @@ https://github.com/LowPowerLab/LowPowerLab.github.io	master		The package is only
 https://github.com/macchina/arduino-boards-sam	master	sam/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/makerlabmx/altair-arduinoide	master	avr/libraries		
 https://github.com/mattairtech/ArduinoCore-samd	master	libraries		
+https://github.com/MauricioJancic/Elemon			The package is in a .bz2 file only. Check back later to see if they have come to their senses.	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/MaximIntegratedMicros/arduino-max326xx	master	arm/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/mcci-catena/Arduino_Core_STM32	master	libraries		https://github.com/topics/arduino-boards
 https://github.com/MCUdude/ButterflyCore	master	avr/libraries		
