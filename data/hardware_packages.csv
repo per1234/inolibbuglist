@@ -63,6 +63,7 @@ https://github.com/INTI-CMNB/Lattuino_IP_Core	master	ide/libraries		https://gith
 https://github.com/IntoRobot/IntoRobotPackages-ArduinoIDE	master		The package is only available in compressed files (on the release page) so there is no way to submit a PR	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/ioteamit/ioteam-arduino-core	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/ioteamit/smarteverything-core	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/Jackjan4/PhilduinoArduino	master	hardware/avr/1.0.1/libraries	Version number in path will probably break the library path on every release. There are currently no libraries anyway.	
 https://github.com/JChristensen/mighty-1284p	v1.6.3		This has libraries but it's abandoned	
 https://github.com/Jewelbots/arduino-library	master	jewelbots_solo_mode_v116/libraries	Version number in path will probably break the library path on every release	
 https://github.com/keyboardio/Kaleidoscope-Bundle-Keyboardio	master	avr/libraries		
