@@ -138,6 +138,7 @@ https://github.com/UDOOboard/arduino-board-package	boardmanager	udoo/sam/librari
 https://github.com/UDOOboard/arduino-board-package	boardmanager	udoo/solox/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/watterott/Arduino-Boards	master	watterott/avr/libraries 		
 https://github.com/watterott/Arduino-Boards	master	watterott/samd/libraries 		
+https://github.com/wemos/Arduino_XI	master	libraries		
 https://github.com/wemos/OU	master	avr/libraries		
 https://github.com/XMegaForArduino/libraries	master	/	This gets bundled with https://github.com/XMegaForArduino/arduino to form the hardware package	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/Z-Wave-Me/Z-Uno-Core	master	hardware/arduino/zuno/libraries		
