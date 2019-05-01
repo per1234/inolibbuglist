@@ -84,7 +84,7 @@ class TestInolibbuglist(unittest.TestCase):
     set_arduino_ci_script_branch(arduino_ci_script_branch_input=argument.arduino_ci_script_branch)
     # only install tools once to make the unit tests faster
     install_tools()
-    # uncomment for debugging
+
     if argument.enable_verbosity:
         inoliblist.set_verbosity(enable_verbosity_input=True)
 
