@@ -161,7 +161,9 @@ harrybraviner/WS2812B_control	Not a library
 hauschil/Arduino-Libraries-and-Tools	Collection of library copies
 hexmaster111/ArduinoLibsBackup	Collection of library copies
 hideakitai/MsgPacketizer	Only compatible with PlatformIO and no indication of a desire to add Arduino IDE support
+https://github.com/co3moz/arduinoLab	Low quality
 https://github.com/iarks/KnockBlock	Sketch
+https://github.com/joshcerrilight/aLibs	Deprecated: https://github.com/joshcerrilight/aLibs/pull/1#pullrequestreview-238121485
 hunandy14/BT_ATC	Doesn't appear to be a library
 hutorny/download	Low quality
 hvos234/raspberrypi.home.arduino	Collection of library copies
