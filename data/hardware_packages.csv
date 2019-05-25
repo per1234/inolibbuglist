@@ -1,6 +1,7 @@
 Repository URL	branch	libraries folder	Notes	source
 https://github.com/01org/corelibs-edison	master	libraries	Possibly abandoned, but maybe worth a feeler PR	
 https://github.com/01org/corelibs-galileo	master	libraries	Possibly abandoned, but maybe worth a feeler PR	
+https://github.com/221robotics/RobotOpen-Sasquatch-Library	master	libraries	I have an open PR to move the libraries folder to hardware/sasquatch/avr/libraries: https://github.com/221robotics/RobotOpen-Sasquatch-Library/pull/15	
 https://github.com/adafruit/Adafruit_Arduino_Boards	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/adafruit/Adafruit_nRF52_Arduino	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/adafruit/Adafruit_WICED_Arduino	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
@@ -27,6 +28,7 @@ https://github.com/Bisotronic/archiduino_1.8.5	master	avr/libraries		https://git
 https://github.com/Bisotronic/archiduino1284BT	master	libraries		https://github.com/topics/arduino-boards
 https://github.com/bwshockley/Minifigure-SAMD21E	master	arduino/mini_sam/hardware/samd/2.0.0/libraries 	Version number in path will probably break the library path on every release	
 https://github.com/carlosefr/atmega	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/cheon7886/ArduinoBox	master	libraries	1.0 hardware package format	
 https://github.com/chipKIT32/chipKIT-core	master	pic32/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/ChrisMicro/STM32GENERIC	master	STM32/libraries		https://github.com/topics/arduino-platform
 https://github.com/CircuitMonkey/arduino-boards	master		No libraries	https://github.com/topics/arduino-boards
@@ -53,6 +55,8 @@ https://github.com/esp8266/Arduino	master	libraries		https://github.com/arduino/
 https://github.com/espressif/arduino-esp32	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/feilipu/Arduino_Goldilocks_Variant	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/FemtoCow/ATTinyCore	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/GEKONavsat/Kyneo1	master	libraries		
+https://github.com/GEKONavsat/Kyneo2	master	libraries	I have an open PR to move the libraries folder to hardware/sasquatch/avr/libraries: https://github.com/GEKONavsat/Kyneo2/pull/1	
 https://github.com/geolink/opentracker-arduino-board	master	sam/1.0.5/libraries	The use of a version number in the folder name is likely to break this on every release	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/GrumpyOldPizza/ArduinoCore-stm32l0	master	libraries		
 https://github.com/harbaum/ftduino	master	ftduino/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
@@ -122,6 +126,7 @@ https://github.com/Seeed-Studio/ArduinoCore-k210	kendryte-standalone-sdk	librari
 https://github.com/Seeed-Studio/Seeed_SAMD_Boards	master	libraries		
 https://github.com/Seeed-Studio/stm32f4ArduinoCore	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/Seenov/mobillyo	master	mobillyo-board-files/seenov/hardware/avr/1.0.0/libraries/ 	Version number in path will probably break the library path on every release. There are currently no libraries anyway.	https://github.com/topics/arduino-boards
+https://github.com/sensestage/ssdn_minibee	master	libraries		
 https://github.com/sipeed/Maixduino	master	libraries		
 https://github.com/soburi/JN516x-arduino-package	master	libraries		
 https://github.com/SodaqMoja/SodaqCore-avr	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
@@ -143,6 +148,7 @@ https://github.com/TKJElectronics/Balanduino	master	Firmware/hardware/Balanduino
 https://github.com/udif/ITEADSW_Iteaduino-Lite-HSP	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/UDOOboard/arduino-board-package	boardmanager	udoo/sam/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/UDOOboard/arduino-board-package	boardmanager	udoo/solox/libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/ultimachine/FeynmanCore	master	libraries		
 https://github.com/watterott/Arduino-Boards	master	watterott/avr/libraries 		
 https://github.com/watterott/Arduino-Boards	master	watterott/samd/libraries 		
 https://github.com/WAVGAT-SZ/WAVGAT	master		The package is currently in a zip file. I don't want to contribute to WAVGAT because they clearly advertise their LGT8F328P-based boards as using the ATmega328P, with no mention anywhere that it's not the chip being used.	
