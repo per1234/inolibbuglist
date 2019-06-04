@@ -12,9 +12,9 @@ aasimmerchant05/ADS1248_Library_Arduino	Sketch
 abhaysbharadwaj/RFID-RC522	Sketch
 acamilo/good-display-eink-library	Low quality
 achase90/thesisArduinoLibs	Collection of library copies
-aferodeveloper/afLib2	Has some "internal repo" where the development work is hidden away so it's too much of a hassle to try to contribute: https://github.com/aferodeveloper/afLib2/pull/2
 AdamM18/Arduino-Data-Logging	Sketch
 aemills77/WS2812-LED-fade	Sketch
+aferodeveloper/afLib2	Has some "internal repo" where the development work is hidden away so it's too much of a hassle to try to contribute: https://github.com/aferodeveloper/afLib2/pull/2
 ahmadabd/myString	Low quality
 AJoao/embeddedlibs	Collection of library copies
 albertchen408/ArduinoEscControl	Not a library
@@ -546,9 +546,9 @@ sahne/libarduino	Not a library
 sanfx/Installed-arduino-libraries	Collection of library copies
 sanyaade-teachings/chipkit-core	Hardware package
 saswatsamal/anticollider	sketch
-sauve/motorsandwheels	"WORK IN PROGRESS - NOT WORKING" and no activity in 4 years
 Satchelboi/Arduino_Scribbles	Sketch
 satyamkr80/NodeMcu-WifiManager-and-ArduinoJson-Combined	Sketch
+sauve/motorsandwheels	"WORK IN PROGRESS - NOT WORKING" and no activity in 4 years
 Schweigert/UDESC	I don't know what it is
 scjurgen/jayduino	Collection of library copies?
 scls19fr/arduino_libraries_search	Not a library
