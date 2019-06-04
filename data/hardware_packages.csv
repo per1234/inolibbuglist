@@ -154,6 +154,7 @@ https://github.com/watterott/Arduino-Boards	master	watterott/samd/libraries
 https://github.com/WAVGAT-SZ/WAVGAT	master		The package is currently in a zip file. I don't want to contribute to WAVGAT because they clearly advertise their LGT8F328P-based boards as using the ATmega328P, with no mention anywhere that it's not the chip being used.	
 https://github.com/wemos/Arduino_XI	master	libraries		
 https://github.com/wemos/OU	master	avr/libraries		
+https://github.com/Wiz-IO/Arduino-Quectel-BC66	master	libraries		
 https://github.com/XMegaForArduino/libraries	master	/	This gets bundled with https://github.com/XMegaForArduino/arduino to form the hardware package	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/Z-Wave-Me/Z-Uno-Core	master	hardware/arduino/zuno/libraries		
 https://github.com/zevero/avr_boot	gh-pages		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
