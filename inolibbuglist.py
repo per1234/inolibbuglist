@@ -577,7 +577,6 @@ def check_blacklist(repository_url):
                 inoliblist.logger.info("Owner " + repository_owner + " is blacklisted.")
                 return True
 
-    repository_full_name = determine_repository_full_name(repository_url=repository_url)
     with open(file=data_folder_name + "/" + repository_blacklist_filename,
               mode='r',
               encoding=inoliblist.file_encoding,
@@ -589,9 +588,12 @@ def check_blacklist(repository_url):
         # skip the heading row
         next(repository_blacklist_csv)
 
+        repository_full_name = determine_repository_full_name(repository_url=repository_url)
         for repository_blacklist_row in repository_blacklist_csv:
             # assumes the first column is the Repository column, but that's reasonable
-            if repository_blacklist_row[0].strip().lower() == repository_full_name.lower():
+            if determine_repository_full_name(
+                    repository_url=repository_blacklist_row[0]
+            ).lower() == repository_full_name.lower():
                 # the repository is blacklisted
                 inoliblist.logger.info("Repository " + repository_full_name + " is blacklisted.")
                 return True
