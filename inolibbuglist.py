@@ -42,7 +42,7 @@ bash_function_wrapper_script_path = scripts_folder_name + "/function-wrapper.sh"
 default_arduino_ci_script_arduino_ide_version = "1.8.6"
 
 browser_script_extension = ".sh"
-verification_failed_browser_script_filename = "verification_failed_browser_script"
+verification_failed_browser_script_filename = "verification_failed"
 owner_blacklist_filename = "owner_blacklist.csv"
 repository_blacklist_filename = "repository_blacklist.csv"
 inolibbuglist_filename = "inolibbuglist.csv"
