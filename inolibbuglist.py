@@ -567,6 +567,9 @@ def check_blacklist(repository_url):
         owner_blacklist_csv = csv.reader(owner_blacklist_file,
                                          delimiter=inoliblist.output_file_delimiter,
                                          quotechar=inoliblist.output_file_quotechar)
+        # skip the heading row
+        next(owner_blacklist_csv)
+
         for owner_blacklist_row in owner_blacklist_csv:
             if owner_blacklist_row[0].strip().lower() == repository_owner.lower():
                 # the owner of the repository is blacklisted
@@ -582,6 +585,9 @@ def check_blacklist(repository_url):
         repository_blacklist_csv = csv.reader(repository_blacklist_file,
                                               delimiter=inoliblist.output_file_delimiter,
                                               quotechar=inoliblist.output_file_quotechar)
+        # skip the heading row
+        next(repository_blacklist_csv)
+
         for repository_blacklist_row in repository_blacklist_csv:
             if repository_blacklist_row[0].strip().lower() == repository_full_name.lower():
                 # the repository is blacklisted
