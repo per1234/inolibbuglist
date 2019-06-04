@@ -571,6 +571,7 @@ def check_blacklist(repository_url):
         next(owner_blacklist_csv)
 
         for owner_blacklist_row in owner_blacklist_csv:
+            # assumes the first column is the Owner column, but that's reasonable
             if owner_blacklist_row[0].strip().lower() == repository_owner.lower():
                 # the owner of the repository is blacklisted
                 inoliblist.logger.info("Owner " + repository_owner + " is blacklisted.")
@@ -589,6 +590,7 @@ def check_blacklist(repository_url):
         next(repository_blacklist_csv)
 
         for repository_blacklist_row in repository_blacklist_csv:
+            # assumes the first column is the Repository column, but that's reasonable
             if repository_blacklist_row[0].strip().lower() == repository_full_name.lower():
                 # the repository is blacklisted
                 inoliblist.logger.info("Repository " + repository_full_name + " is blacklisted.")
