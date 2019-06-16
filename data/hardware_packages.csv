@@ -95,6 +95,7 @@ https://github.com/MCUdude/MiniCore	master	avr/libraries		https://github.com/ard
 https://github.com/me-no-dev/RasPiArduino	master	libraries		
 https://github.com/MediaTek-Labs/Arduino-Add-On-for-LinkIt-SDK	master	middleware/third_party/arduino/hardware/arduino/mt7697/libraries		
 https://github.com/meetjestad/mjs_boards	master		No libraries	
+https://github.com/MHEtLive/MHEtLiveArduino	master	mhetlive-avr-1.0.0/1.0.0/libraries 	Version number in path will probably break the library path on every release	
 https://github.com/mikaelpatel/Cosa	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/Move38/Move38-Arduino-Platform	dev	libraries	There's also https://github.com/bigjosh/Move38-Arduino-Platform, and it's not clear which one should be checked	
 https://github.com/ms-iot/iot-utilities	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
