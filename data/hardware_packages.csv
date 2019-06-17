@@ -55,6 +55,7 @@ https://github.com/esp8266/Arduino	master	libraries		https://github.com/arduino/
 https://github.com/espressif/arduino-esp32	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/feilipu/Arduino_Goldilocks_Variant	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/FemtoCow/ATTinyCore	master		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/FleetProbe/MicroBridge-Arduino-ATMega2560	master		No libraries. It's just a bootloader for ATmega2560	
 https://github.com/GEKONavsat/Kyneo1	master	libraries		
 https://github.com/GEKONavsat/Kyneo2	master	libraries	I have an open PR to move the libraries folder to hardware/sasquatch/avr/libraries: https://github.com/GEKONavsat/Kyneo2/pull/1	
 https://github.com/geolink/opentracker-arduino-board	master	sam/1.0.5/libraries	The use of a version number in the folder name is likely to break this on every release	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
@@ -156,8 +157,8 @@ https://github.com/WAVGAT-SZ/WAVGAT	master		The package is currently in a zip fi
 https://github.com/wemos/Arduino_XI	master	libraries		
 https://github.com/wemos/OU	master	avr/libraries		
 https://github.com/Wiz-IO/Arduino-Quectel-BC66	master	libraries		
+https://github.com/Xmegaduino/Xmegaduino	xmegaduino	hardware/arduino/xmega/libraries	Their approach was to fork the IDE and add ATxmega support files to it	
 https://github.com/XMegaForArduino/libraries	master	/	This gets bundled with https://github.com/XMegaForArduino/arduino to form the hardware package	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/Z-Wave-Me/Z-Uno-Core	master	hardware/arduino/zuno/libraries		
 https://github.com/zevero/avr_boot	gh-pages		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/zoubata/ArduinoCore-samd	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
-https://github.com/Xmegaduino/Xmegaduino	xmegaduino	hardware/arduino/xmega/libraries	Their approach was to fork the IDE and add ATxmega support files to it	
