@@ -160,3 +160,4 @@ https://github.com/XMegaForArduino/libraries	master	/	This gets bundled with htt
 https://github.com/Z-Wave-Me/Z-Uno-Core	master	hardware/arduino/zuno/libraries		
 https://github.com/zevero/avr_boot	gh-pages		No libraries	https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
 https://github.com/zoubata/ArduinoCore-samd	master	libraries		https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls
+https://github.com/Xmegaduino/Xmegaduino	xmegaduino	hardware/arduino/xmega/libraries	Their approach was to fork the IDE and add ATxmega support files to it	
